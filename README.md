@@ -48,7 +48,11 @@ Build an agent that learns the game by Q-Learning. You can choose the hyperparam
 - For a 64-bit system with 8GB RAM, it takes ~30 minutes to run 5Mn episodes.
 
 Q-values convergence- check whether Q-values learnt by the agent have converged or not. Sample 4 state-action pairs and plot it with the number of episodes to understand the convergence.
-  
+
+### States and Policy Pickle Files
+
+[Click here](https://drive.google.com/file/d/1AZqyj7b29HaAFDzPfQSvq6J8V6iZx8SY/view?usp=sharing) to download States Pickle File
+[Click here](https://drive.google.com/file/d/154FnLcpcqfHYo1b-_B1ABkbeFZvyPZFS/view?usp=sharing) to download Policy Pickle file
 
 ### Python Packages:
 - numpy
